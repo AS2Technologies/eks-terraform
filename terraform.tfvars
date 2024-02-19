@@ -1,0 +1,5 @@
+eks_cluster_role_name = "eks_cluster_role"
+eks_cluster_name = "eks_demo"
+node_group_name = "eks-demo-nodegroup"
+vpc_name = "my-work-vpc"
+kubernetes_version = "1.27"
